@@ -1,1 +1,22 @@
-This is a test file.
+3-864088/2009;itp80H/0349685;Röchling SK;16.9.2026;OK;;;;;;;Vyměněno;Původní OK;Původní OK;Původní OK;Vyměněno;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+169301-01-01/2001;itp80-H5;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Nutno objednat;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+285771-02-01/2015;itp80H-12 H12;Röchling CZ;16.9.2026;Diagnostika;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+288782-03-01/2015;itp80H-12 H7;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+S10003613--/2016;itp80H-12 E8;Röchling CZ;16.9.2026;Objednat díly;;;;;;;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;;
+255951-01-01/2011;itp80-06 H4;Röchling DE;16.9.2026;Objednat díly;;;;;;;Původní OK;Původní OK;Původní OK;Nutno objednat;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+S10004373/2017;itp80H-12 H1;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+19-428808/2003;itp80/0320752;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+164301-01-01/2001;itp80-H6;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;obj.: těsnění čerp;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;;
+255951-01-01/2011;itp80-06 H6;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+255951-01-01/2011;itp80-06 H5;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+7-489935/2004;itp80H/0349685;Röchling DE;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+257377-01-01/2011;itp80H-6 H3;Röchling DE;16.9.2026;OK;;16.9.2026;1;Neproběhla;0;;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+11-489935/2004;itp80H/03;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;Zanesené had.;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;;
+S10003612--/2016;itp80H-12 H12;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;měněny lyžiny;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+bez SRN;bezy typu (it80 H);Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+165611-02-04/2002;itp80-H3;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;obj.: měď hadičky;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;;
+S10006032/2017;H-11;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+288782-03-01/2015;itp80H-12 H1;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+S10003771/2019;itp80H HErsatz;Röchling CZ;16.9.2026;Objednat díly;;16.9.2026;1;;;obj.: těsnění čerp;Původní OK;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;Původní OK;Původní OK;Nutno objednat;Původní OK;;
+14-951020/2010;itp80/03;Röchling CZ;16.9.2026;Diagnostika;;;;;;;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
+293350-02-02/2016;itp80H-12 H12;Röchling CZ;16.9.2026;OK;;16.9.2026;1;Neproběhla;0;;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;Původní OK;;
